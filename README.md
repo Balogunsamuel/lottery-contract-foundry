@@ -20,7 +20,7 @@ git clone https://github.com/Balogunsamuel/lottery-contract-foundry
 # 2. Change to the Project Directory
 
 ```bash
-cd foundry-smart-contract-lottery-f23
+cd lottery-contract-foundry
 
 ```
 
